@@ -25,33 +25,23 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email:wglyu@ahu.edu.cn
+  phone:+81 18217319***
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 111 Jiulong Road
+    city: Hefei
+    region: Shushan District
+    postcode: '230601'
+    country: P. R. China
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '***'
+    longitude: '***'
+  directions: Mathematics Building and take the stairs to Office 406 on Floor 4
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
+    - 'All day 9:00 to 22:00'
+    
+ 
 design:
   columns: '2'
 ---
