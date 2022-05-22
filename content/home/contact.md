@@ -40,7 +40,16 @@ content:
   directions: Mathematics Building and take the stairs to Office 406 on Floor 4
   office_hours:
     - 'All day 9:00 to 22:00'
-    
+    appointment_url: 'https://calendly.com'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/Twitter'
+    - icon: video
+      icon_pack: fas
+      name: Zoom Me
+      link: 'https://zoom.com'
  
 design:
   columns: '2'
