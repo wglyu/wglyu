@@ -78,7 +78,7 @@ This homepage section is an example of adding [elements](https://wowchemy.com/do
 
 Backgrounds can be applied to any section. Here, the _background_ option is set give a _color gradient_.
 
-**To remove this section, delete `content/home/demo.md`.**
+
 {{% /callout %}}
 
 ## Get inspired
