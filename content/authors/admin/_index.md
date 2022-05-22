@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Weiguo Lyu is a Postdoctor of Pure Mathematics at the Anhui University. His research interests include include Hochschild cohomology theory, Homological algebra and Algebraic Operads. 
+Weiguo Lyu is a Postdoctor of Pure Mathematics at the Anhui University. His research interests include  Hochschild cohomology theory, Homological algebra and Algebraic Operads. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
