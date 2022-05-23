@@ -34,22 +34,22 @@ content:
     postcode: '230601'
     country: P. R. China
     country_code: CN
-  coordinates:
-    latitude: '***'
-    longitude: '***'
+ # coordinates:
+ #   latitude: '***'
+  #  longitude: '***'
   directions: Mathematics Building and take the stairs to Office 406 on Floor 4
   office_hours:
     - 'All day 9:00 to 22:00'
-    appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+ #   appointment_url: 'https://calendly.com'
+ # contact_links:
+ #   - icon: twitter
+ #     icon_pack: fab
+ #     name: DM Me
+   #   link: 'https://twitter.com/Twitter'
+  #  - icon: video
+   #   icon_pack: fas
+   #   name: Zoom Me
+  #    link: 'https://zoom.com'
  
 design:
   columns: '2'
